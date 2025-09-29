@@ -1,4 +1,4 @@
-��# QuizAppGold
+# QuizAppGold
 
 An accessible, state-driven, vanilla JavaScript quiz application demonstrating production-grade front-end patterns (state isolation, pure rendering, event delegation, progressive enhancement, persistence, and a11y support).
 
